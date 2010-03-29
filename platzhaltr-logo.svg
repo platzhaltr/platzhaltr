@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="platzhaltr-logo.svg"
+   inkscape:export-filename="/Users/Oliver/Development/projects/platzhaltr/platzhaltr/platzhaltr-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.4592066"
+     inkscape:cx="78.951846"
+     inkscape:cy="144.30785"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:snap-to-guides="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-107.07617,128.28937"
+       id="guide2820" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="128.28937,260.11428"
+       id="guide2822" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="73.23606,96.974644"
+       id="guide3604" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="88.141462,182.72022"
+       id="guide3606" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36218)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="rechteck">
+    <g
+       id="g3700"
+       transform="translate(6.4883238,1.2546678)">
+      <text
+         id="text2816"
+         y="955.38751"
+         x="11.111676"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"
+         transform="translate(0,-796.36218)"><tspan
+           style="font-size:120px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Helvetica Neue LT Std;-inkscape-font-specification:Helvetica Neue LT Std Bold Condensed"
+           y="955.38751"
+           x="11.111676"
+           id="tspan2818"
+           sodipodi:role="line">ph<tspan
+   id="tspan2830"
+   style="fill:none">h</tspan><tspan
+   id="tspan3694"
+   style="font-weight:normal;-inkscape-font-specification:Helvetica Neue LT Std Condensed">r</tspan></tspan></text>
+      <path
+         id="rect2827"
+         d="m 136.83311,74.847841 48.57243,0 0,82.657759 -48.57243,0 0,-82.657759 z"
+         style="fill:none;stroke:#000000;stroke-width:2.94605613;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
